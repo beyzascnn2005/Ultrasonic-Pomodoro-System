@@ -10,13 +10,13 @@ Bu proje, Arduino ile masa başı çalışma ve mola sürelerini takip eden bir 
 
 
 
-\- Masada olup olmadığını ultrasonik sensör ile kontrol eder.
+\- Varlık Tespiti: Ultrasonik sensör (HC-SR04) kullanarak kullanıcının çalışma alanında olup olmadığını gerçek zamanlı analiz eder
 
 \- Kırmızı, yeşil ve mavi LED’lerle mola,çalışma gibi durum göstergesi yapar.
 
-\- Buzzer ile ara, çalışma zamanını hatırlatır.
+\- Buzzer ile mola ve çalışma zamanını hatırlatır.
 
-\- Gece modu seçeneğiile buzzzer kapatılır.
+\- Gece modu seçeneği ile buzzzer kapatılır.
 
 
 
